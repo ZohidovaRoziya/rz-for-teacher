@@ -38,6 +38,11 @@ h1:hover {
   color: #ff0266;
 }
 
+h1 a:hover {
+  transform: translate3d(0, -10px, 22px);
+  color: #ff0266;
+}
+
 .slider h2 {
   font-size: 2vw;
   letter-spacing: 0.3rem;
